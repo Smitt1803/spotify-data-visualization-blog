@@ -6,6 +6,8 @@
 ![Visualization](https://img.shields.io/badge/Tools-5-blue)
 ![Dataset](https://img.shields.io/badge/Dataset-Spotify-green)
 
+Blog: https://app.notion.com/p/Exploring-Spotify-Music-Trends-Through-Data-Visualization-3a059ad7cad08068b6b2ee927441a05d?source=copy_link
+
 ---
 
 # 📖 Overview
@@ -78,7 +80,8 @@ The dataset contains approximately **114,000 Spotify tracks** across **114 music
 
 Bar Chart showing the most popular Spotify genres.
 
-📷 *Insert Screenshot Here*
+<img width="1918" height="1018" alt="Google Sheets-1" src="https://github.com/user-attachments/assets/5f63c5a1-9d04-4b48-8997-ce97aab742b3" />
+
 
 ### Key Insights
 
@@ -99,7 +102,8 @@ Bar Chart showing the most popular Spotify genres.
 
 Scatter Plot comparing **Danceability** and **Popularity**.
 
-📷 *Insert Screenshot Here*
+<img width="1918" height="1032" alt="Datawrapper-1" src="https://github.com/user-attachments/assets/0fbbfe9c-095d-41c2-9f93-267ca5a98765" />
+
 
 ### Key Insights
 
@@ -127,7 +131,8 @@ Radar Chart comparing:
 
 across the five most popular genres.
 
-📷 *Insert Screenshot Here*
+<img width="1918" height="1031" alt="Flourish-1" src="https://github.com/user-attachments/assets/1f8fc6a8-867f-45e3-97f7-394f71bb5e1d" />
+
 
 ### Key Insights
 
@@ -148,7 +153,8 @@ across the five most popular genres.
 
 Hexagonal Binning Plot
 
-📷 *Insert Screenshot Here*
+<img width="1918" height="1031" alt="RAWGraphs-1" src="https://github.com/user-attachments/assets/0d15d552-57e9-42bc-bdb1-0cf4a93f602f" />
+
 
 ### Key Insights
 
@@ -176,7 +182,8 @@ Interactive Dashboard including:
 - Popularity Slider
 - Explicit Songs Filter
 
-📷 *Insert Screenshot Here*
+<img width="1918" height="1026" alt="Google Looker Studio-1" src="https://github.com/user-attachments/assets/bbf3bbb9-c41c-4dc3-83c3-1d1dcbba50b6" />
+
 
 ### Key Insights
 
@@ -232,7 +239,7 @@ spotify-data-visualization-blog
 │   └── spotify-tracks.csv
 │
 └── blog/
-    └── article.md
+    └── blog.pdf
 ```
 
 ---
